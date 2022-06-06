@@ -20,7 +20,10 @@ const char* password  = "SENHA";
 const char * Temperatura  = "temperatura";  
 
 const char * ClientID     = "Client1"; //defina um nome único para cada conexão/device!!
- 
+ const char* mqtt_server = "xx.xxx.xx.xx";
+const char* mqttUser = "user1"; // usuário e senha MQTT exemplo: "user1"  ,  "321", caso não tenha deixe vazio
+const char* mqttPassword = "321"; 
+
 String valor;
 String valor2;
 String valor3;
@@ -49,7 +52,7 @@ void setup() {
        No Mqtt a conexão cada dispositivo conectado ao broker precisa ter um nome único.
        Por esse motivo, cada device precisa ter um nome diferente defino em "ClientID_GUID" 
     */
-    if (client.connect(ClientID, "user1", "321")) {  // usuário e senha MQTT exemplo: "user1"  ,  "321", caso não tenha apague
+    if (client.connect(ClientID, mqttUser, mqttPassword)) {  
       Serial.println("connected");  
  
     } else {
