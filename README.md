@@ -15,9 +15,9 @@ Portanto a análise da temperatura é importante para medir o tempo exato de cur
 
 <h2><b>Hardware</b></h2>
 <u1>
-  <li> Blumen Touch Placa 1, 2 e 3 teclas frente e trás</li>
-  <img src="https://user-images.githubusercontent.com/76061000/172374827-852379f1-d8f9-41f2-b57c-8abaf6a2782a.jpeg" width="750px">
-  <img src="https://user-images.githubusercontent.com/76061000/172375074-4f3b9847-11f4-4625-9c8e-b64d5e9c67d5.jpeg" width="807px">
-   <img src="https://user-images.githubusercontent.com/76061000/172375214-3a31701b-88f8-47f7-bafb-5c4b95cda398.jpeg" width="807px">
+  <li> Imagens no canteiro de obras</li>
+  <img src="https://user-images.githubusercontent.com/76061000/172374827-852379f1-d8f9-41f2-b57c-8abaf6a2782a.jpeg" width="400px">
+  <img src="https://user-images.githubusercontent.com/76061000/172375074-4f3b9847-11f4-4625-9c8e-b64d5e9c67d5.jpeg" width="400px">
+   <img src="https://user-images.githubusercontent.com/76061000/172375214-3a31701b-88f8-47f7-bafb-5c4b95cda398.jpeg" width="400px">
   
   <u1>
