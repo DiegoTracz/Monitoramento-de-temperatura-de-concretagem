@@ -1,6 +1,6 @@
 # Sistema para monitoramento de temperatura do concreto para blocos estruturais
 
-É uma solução IoT baseada no ESP32 com o objetivo de medir a temperatura do concreto na concretagem de blocos estruturais para que com os valores ser feita análise da ressitência.
+É uma solução IoT baseada no ESP32 com o objetivo de medir a temperatura do concreto na concretagem de blocos estruturais para ser feita análise da resistência.
 <h2><b>Introdução</b></h2>
 O concreto é formado por cimento, água, areia, brita e aditivos, sendo a reação entre cimento e água a responsável pelo endurecimento do concreto. Essa reação é exotérmica, ou seja,
 libera calor, o qual chamamos de calor de hidratação.A temperatura do ambiente influencia este calor, sendo problemático tanto o calor extremo quanto o frio extremo.
